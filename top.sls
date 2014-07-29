@@ -8,6 +8,3 @@ base:
     - accumulo
     - maven
     - hostsfile
-    - accumulo-nagios
-    - zookeeper
-
