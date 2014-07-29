@@ -11,4 +11,4 @@ hadoop:
         value: 65536
       fs.trash.interval:
         value: 60
-
+    log_root: /mnt/hadoop/log

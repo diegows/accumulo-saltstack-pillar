@@ -13,3 +13,9 @@ hdfs:
         value: 'true'
       dfs.datanode.synconclose:
         value: 'true'
+    local_disks:
+      - /mnt/xvdm
+      - /mnt/xvdn
+      - /mnt/xvdp
+      - /mnt/xvdo
+
